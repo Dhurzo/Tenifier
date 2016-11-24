@@ -22,7 +22,7 @@ Usage
 Command | ./Tenifier.sh <peer>
 
 Example:
-sudo sensors | ./Tenifier.sh Juan
+sudo sensors | ./Tenifier2.sh Juan
 
 ===================
 
